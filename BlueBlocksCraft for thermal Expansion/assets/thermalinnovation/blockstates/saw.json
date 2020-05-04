@@ -1,0 +1,147 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "thermalinnovation:items/saw/saw_0",
+			"layer1": "thermalinnovation:items/saw/saw_empty",
+			"layer2": "thermalinnovation:items/blank",
+			"layer3": "thermalinnovation:items/blank"
+		},
+		"transform": {
+			"thirdperson_righthand": {
+				"rotation": [{
+					"x": 90},{
+					"y": -90},{
+					"z": 45}
+				],
+				"translation": [ 0, 0.35, 0 ],
+				"scale": [ 0.85, 0.85, 0.85 ]
+			},
+			"thirdperson_lefthand": {
+				"rotation": [{
+					"x": 90},{
+					"y": 90},{
+					"z": -45}
+				],
+				"translation": [ 0, 0.35, 0 ],
+				"scale": [ 0.85, 0.85, 0.85 ]
+			},
+			"firstperson_righthand": {
+				"rotation": [{
+					"y": -90},{
+					"z": 25}
+				],
+				"translation": [ 0, 0.2, 0.12 ],
+				"scale": [ 0.68, 0.68, 0.68	]
+			},
+			"firstperson_lefthand": {
+				"rotation": [{
+					"y": 90},{
+					"z": -25}
+				],
+				"translation": [ 0, 0.2, 0.12 ],
+				"scale": [ 0.68, 0.68, 0.68	]
+			},
+			"ground": {
+				"translation": [0, 0.15, 0],
+				"scale": [0.5, 0.5, 0.5]
+			}
+		}
+	},
+	"variants": {
+		"color0": {
+			"0": {
+
+			},
+			"1": {
+				"textures": {
+					"layer3": "thermalinnovation:items/saw/saw_color_0"
+				}
+			}
+		},
+		"state": {
+			"charged": {
+				"textures": {
+					"layer1": "thermalinnovation:items/saw/saw_charged"
+				}
+			},
+			"active": {
+				"textures": {
+					"layer1": "thermalinnovation:items/saw/saw_active",
+					"layer2": "thermalinnovation:items/saw/saw_active_2"
+				},
+				"transform": {
+					"thirdperson_righthand": {
+						"rotation": [{
+							"x": 90},{
+							"y": -90},{
+							"z": 60}
+						],
+						"translation": [ 0, 0.35, -0.05 ],
+						"scale": [ 0.85, 0.85, 0.85 ]
+					},
+					"thirdperson_lefthand": {
+						"rotation": [{
+							"x": 90},{
+							"y": 90},{
+							"z": -60}
+						],
+						"translation": [ 0, 0.35, -0.05 ],
+						"scale": [ 0.85, 0.85, 0.85 ]
+					},
+					"firstperson_righthand": {
+						"rotation": [{
+							"y": -90},{
+							"z": 45}
+						],
+						"translation": [ 0, 0.1, 0.1 ],
+						"scale": [ 0.68, 0.68, 0.68	]
+					},
+					"firstperson_lefthand": {
+						"rotation": [{
+							"y": 90},{
+							"z": -45}
+						],
+						"translation": [ 0, 0.1, 0.1 ],
+						"scale": [ 0.68, 0.68, 0.68	]
+					}
+				}
+			},
+			"drained": {
+			}
+		},
+		"type": {
+			"standard0": {
+				"textures": {
+					"layer0": "thermalinnovation:items/saw/saw_0"
+				}
+			},
+			"standard1": {
+				"textures": {
+					"layer0": "thermalinnovation:items/saw/saw_1"
+				}
+			},
+			"standard2": {
+				"textures": {
+					"layer0": "thermalinnovation:items/saw/saw_2"
+				}
+			},
+			"standard3": {
+				"textures": {
+					"layer0": "thermalinnovation:items/saw/saw_3"
+				}
+			},
+			"standard4": {
+				"textures": {
+					"layer0": "thermalinnovation:items/saw/saw_4"
+				}
+			},
+			"creative": {
+				"textures": {
+					"layer0": "thermalinnovation:items/saw/saw_c"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "thermalfoundation:item/fishing_rod_cast",
+	"textures": {
+		"texture2": "thermalfoundation:3dres/tools/fishingrods/lead"
+	}
+}

@@ -1,0 +1,117 @@
+{
+	"__comment": "Designed by Blue_Beaker with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"stick": "thermalfoundation:3dres/tools/stick",
+		"head": "3dres/tools/sickles/aluminum"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 7, 3, 6 ],
+			"to": [ 9, 5, 11 ],
+			"faces": {
+				"down": { "uv": [ 0, 10, 4, 0 ], "texture": "#head" },
+				"up": { "uv": [ 0, 0, 4, 10 ], "texture": "#head" },
+				"north": { "uv": [ 8, 16, 4, 12 ], "texture": "#head" },
+				"west": { "uv": [ 0, 0, 1, 10 ], "texture": "#head", "rotation": 270 },
+				"east": { "uv": [ 4, 0, 3, 10 ], "texture": "#head", "rotation": 90 }
+			}
+		},
+		{
+			"__comment": "Box1",
+			"from": [ 7, 0, 7 ],
+			"to": [ 9, 3, 9 ],
+			"faces": {
+				"down": { "uv": [ 2, 0, 4, 2 ], "texture": "#stick" },
+				"up": { "uv": [ 2, 0, 4, 2 ], "texture": "#stick" },
+				"north": { "uv": [ 12, 13, 14, 16 ], "texture": "#stick" },
+				"south": { "uv": [ 12, 13, 14, 16 ], "texture": "#stick" },
+				"west": { "uv": [ 12, 13, 14, 16 ], "texture": "#stick" },
+				"east": { "uv": [ 12, 13, 14, 16 ], "texture": "#stick" }
+			}
+		},
+		{
+			"__comment": "Box1",
+			"from": [ 7, 3, 11 ],
+			"to": [ 9, 5, 15.242 ],
+			"rotation": { "origin": [ 7, 3, 11 ], "axis": "x", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 0, 12, 4, 2 ], "texture": "#head" },
+				"up": { "uv": [ 0, 2, 4, 12 ], "texture": "#head" },
+				"west": { "uv": [ 0, 2, 1, 12 ], "texture": "#head", "rotation": 270 },
+				"east": { "uv": [ 4, 2, 3, 12 ], "texture": "#head", "rotation": 90 }
+			}
+		},
+		{
+			"__comment": "Box1",
+			"from": [ 7, 6, 12 ],
+			"to": [ 9, 12, 14 ],
+			"faces": {
+				"north": { "uv": [ 4, 2, 0, 12 ], "texture": "#head" },
+				"south": { "uv": [ 0, 2, 4, 12 ], "texture": "#head" },
+				"west": { "uv": [ 0, 2, 1, 12 ], "texture": "#head" },
+				"east": { "uv": [ 4, 2, 3, 12 ], "texture": "#head" }
+			}
+		},
+		{
+			"__comment": "Box1",
+			"from": [ 7, 10, 9.757999 ],
+			"to": [ 9, 12, 14 ],
+			"rotation": { "origin": [ 7, 12, 14 ], "axis": "x", "angle": 45 },
+			"faces": {
+				"down": { "uv": [ 0, 12, 4, 2 ], "texture": "#head" },
+				"up": { "uv": [ 0, 2, 4, 12 ], "texture": "#head" },
+				"west": { "uv": [ 0, 2, 1, 12 ], "texture": "#head", "rotation": 270 },
+				"east": { "uv": [ 4, 2, 3, 12 ], "texture": "#head", "rotation": 90 }
+			}
+		},
+		{
+			"__comment": "Box1",
+			"from": [ 7, 13, 4 ],
+			"to": [ 9, 15, 11 ],
+			"faces": {
+				"down": { "uv": [ 0, 15, 4, 0 ], "texture": "#head" },
+				"up": { "uv": [ 0, 0, 4, 15 ], "texture": "#head" },
+				"north": { "uv": [ 4, 1, 0, 0 ], "texture": "#head" },
+				"west": { "uv": [ 0, 0, 1, 15 ], "texture": "#head", "rotation": 270 },
+				"east": { "uv": [ 4, 0, 3, 15 ], "texture": "#head", "rotation": 90 }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation":  [ 0, 3, 1 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_lefthand": {
+			"translation":  [ 0, 3, 1 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 15, 0, 0 ],
+			"translation":  [ 0, 3, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 15, 0, 0 ],
+			"translation":  [ 0, 3, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"gui": {
+			"rotation":  [ 10, 90, 0 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"head": {
+			"rotation":  [ 90, 45, -90 ],
+			"translation":  [ 0, 0, 7.8 ]
+		},
+		"ground": {
+			"rotation":  [ 90, 90, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, -90, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		}
+	}
+}

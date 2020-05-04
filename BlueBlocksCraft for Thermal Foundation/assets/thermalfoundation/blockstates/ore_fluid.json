@@ -1,0 +1,62 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "thermalfoundation:ore_fluid",
+		"transform": "forge:default-block"
+	},
+	"variants": {
+		"type": {
+			"crude_oil_sand": {
+				"model": "thermalfoundation:ore_fluid_sand",
+				"textures": {
+					"particle": "thermalfoundation:3dres/ore_fluid/crude_oil_still",
+					"texture": "thermalfoundation:3dres/ore_fluid/sand",
+					"texture1": "thermalfoundation:3dres/ore_fluid/crude_oil_still",
+					"texture2": "thermalfoundation:3dres/ore_fluid/crude_oil_flow"
+				}
+			},
+			"crude_oil_red_sand": {
+				"model": "thermalfoundation:ore_fluid_sand",
+				"textures": {
+					"particle": "thermalfoundation:3dres/ore_fluid/crude_oil_still",
+					"texture": "thermalfoundation:3dres/ore_fluid/red_sand",
+					"texture1": "thermalfoundation:3dres/ore_fluid/crude_oil_still",
+					"texture2": "thermalfoundation:3dres/ore_fluid/crude_oil_flow"
+				}
+			},
+			"crude_oil_gravel": {
+				"model": "thermalfoundation:ore_fluid_sand",
+				"textures": {
+					"particle": "thermalfoundation:3dres/ore_fluid/crude_oil_still",
+					"texture": "thermalfoundation:3dres/ore_fluid/gravel",
+					"texture1": "thermalfoundation:3dres/ore_fluid/crude_oil_still",
+					"texture2": "thermalfoundation:3dres/ore_fluid/crude_oil_flow"
+				}
+			},
+			"redstone": {
+				"textures": {
+					"particle": "thermalfoundation:3dres/ore_fluid/redstone_still",
+					"texture": "thermalfoundation:3dres/ore_fluid/stone",
+					"texture1": "thermalfoundation:3dres/ore_fluid/redstone_still",
+					"texture2": "thermalfoundation:3dres/ore_fluid/redstone_flow"
+				}
+			},
+			"glowstone": {
+				"textures": {
+					"particle": "thermalfoundation:3dres/ore_fluid/glowstone_still",
+					"texture": "thermalfoundation:3dres/ore_fluid/netherrack",
+					"texture1": "thermalfoundation:3dres/ore_fluid/glowstone_still",
+					"texture2": "thermalfoundation:3dres/ore_fluid/glowstone_flow"
+				}
+			},
+			"ender": {
+				"textures": {
+					"particle": "thermalfoundation:3dres/ore_fluid/ender_still",
+					"texture": "thermalfoundation:3dres/ore_fluid/end_stone",
+					"texture1": "thermalfoundation:3dres/ore_fluid/ender_still",
+					"texture2": "thermalfoundation:3dres/ore_fluid/ender_flow"
+				}
+			}
+		}
+	}
+}

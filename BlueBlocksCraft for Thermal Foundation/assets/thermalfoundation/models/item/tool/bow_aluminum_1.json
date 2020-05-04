@@ -1,0 +1,6 @@
+{
+	"parent": "thermalfoundation:item/bow_pulling_1",
+	"textures": {
+		"stick": "thermalfoundation:3dres/tools/bows/aluminum"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"parent": "thermalfoundation:item/fishing_rod",
+	"textures": {
+		"texture2": "thermalfoundation:3dres/tools/fishingrods/diamond"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"cast": 1.0
+			},
+			"model": "thermalfoundation:item/tool/fishing_rod_diamond_cast"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "thermalfoundation:dusts",
+		"textures": {
+			"texture1": "thermalfoundation:3dres/fertilizers/plate"
+		}
+	},
+	"variants": {
+		"type": {
+			"fertilizerbasic": {
+				"textures": {
+					"texture": "thermalfoundation:3dres/fertilizers/basic"
+				}
+			},
+			"fertilizerrich": {
+				"textures": {
+					"texture": "thermalfoundation:3dres/fertilizers/rich"
+				}
+			},
+			"fertilizerflux": {
+				"model": "thermalfoundation:dusts_elemental",
+				"textures": {
+					"texture": "thermalfoundation:3dres/fertilizers/flux"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,85 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "blocks/dirt"
+		}
+	},
+	"variants": {
+		"type": {
+			"wrench0": {
+				"model": "thermalfoundation:wrench",
+				"textures": {
+					"layer0": "thermalfoundation:3dres/utils/wrench"
+				}
+			},
+			"wrench1": {
+				"model": "thermalfoundation:wrench",
+				"textures": {
+					"texture": "thermalfoundation:3dres/utils/wrench"
+				}
+			},
+			"wrench2": {
+				"model": "thermalfoundation:wrench",
+				"textures": {
+					"texture": "thermalfoundation:3dres/utils/wrench"
+				}
+			},
+			"wrench3": {
+				"model": "thermalfoundation:wrench",
+				"textures": {
+					"texture": "thermalfoundation:3dres/utils/wrench"
+				}
+			},
+			"wrench4": {
+				"model": "thermalfoundation:wrench",
+				"textures": {
+					"texture": "thermalfoundation:3dres/utils/wrench"
+				}
+			},
+			"multimeter": {
+				"model": "thermalfoundation:multimeter",
+				"textures": {
+					"texture": "thermalfoundation:3dres/utils/multimeter"
+				}
+			},
+			"lexicon": {
+				"model": "thermalfoundation:books",
+				"textures": {
+					"texture": "thermalfoundation:3dres/utils/tome_lexicon"
+				}
+			},
+			"experience": {
+				"model": "thermalfoundation:books",
+				"textures": {
+					"texture": "thermalfoundation:3dres/utils/tome_experience"
+				}
+			},
+			"lock": {
+				"model": "thermalfoundation:lock",
+				"textures": {
+					"layer0": "thermalfoundation:3dres/utils/lock"
+				}
+			},
+			"schematic": {
+				"model": "thermalfoundation:papers",
+				"textures": {
+					"texture": "thermalfoundation:3dres/utils/schematic"
+				}
+			},
+			"redprint": {
+				"model": "thermalfoundation:papers",
+				"textures": {
+					"texture": "thermalfoundation:3dres/utils/redprint"
+				}
+			},
+			"enderprint": {
+				"model": "thermalfoundation:papers",
+				"textures": {
+					"texture": "thermalfoundation:3dres/utils/enderprint"
+				}
+			}
+		}
+	}
+}

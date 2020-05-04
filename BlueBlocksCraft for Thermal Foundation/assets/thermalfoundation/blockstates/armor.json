@@ -1,0 +1,349 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "blocks/dirt"
+		}
+	},
+	"variants": {
+		"type": {
+			"helmet_copper": {
+				"model": "thermalfoundation:armor/helmet",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/copper_1",
+					"texture1": "thermalfoundation:3dres/armor/copper_2"
+				}
+			},
+			"chestplate_copper": {
+				"model": "thermalfoundation:armor/chestplate",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/copper_1",
+					"texture1": "thermalfoundation:3dres/armor/copper_2"
+				}
+			},
+			"leggings_copper": {
+				"model": "thermalfoundation:armor/leggings",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/copper_1",
+					"texture1": "thermalfoundation:3dres/armor/copper_2"
+				}
+			},
+			"boots_copper": {
+				"model": "thermalfoundation:armor/boots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/copper_1",
+					"texture1": "thermalfoundation:3dres/armor/copper_2"
+				}
+			},
+			"helmet_tin": {
+				"model": "thermalfoundation:armor/helmet",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/tin_1",
+					"texture1": "thermalfoundation:3dres/armor/tin_2"
+				}
+			},
+			"chestplate_tin": {
+				"model": "thermalfoundation:armor/chestplate",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/tin_1",
+					"texture1": "thermalfoundation:3dres/armor/tin_2"
+				}
+			},
+			"leggings_tin": {
+				"model": "thermalfoundation:armor/leggings",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/tin_1",
+					"texture1": "thermalfoundation:3dres/armor/tin_2"
+				}
+			},
+			"boots_tin": {
+				"model": "thermalfoundation:armor/boots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/tin_1",
+					"texture1": "thermalfoundation:3dres/armor/tin_2"
+				}
+			},
+			"helmet_silver": {
+				"model": "thermalfoundation:armor/helmet",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/silver_1",
+					"texture1": "thermalfoundation:3dres/armor/silver_2"
+				}
+			},
+			"chestplate_silver": {
+				"model": "thermalfoundation:armor/chestplate",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/silver_1",
+					"texture1": "thermalfoundation:3dres/armor/silver_2"
+				}
+			},
+			"leggings_silver": {
+				"model": "thermalfoundation:armor/leggings",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/silver_1",
+					"texture1": "thermalfoundation:3dres/armor/silver_2"
+				}
+			},
+			"boots_silver": {
+				"model": "thermalfoundation:armor/boots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/silver_1",
+					"texture1": "thermalfoundation:3dres/armor/silver_2"
+				}
+			},
+			"helmet_lead": {
+				"model": "thermalfoundation:armor/helmet",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/lead_1",
+					"texture1": "thermalfoundation:3dres/armor/lead_2"
+				}
+			},
+			"chestplate_lead": {
+				"model": "thermalfoundation:armor/chestplate",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/lead_1",
+					"texture1": "thermalfoundation:3dres/armor/lead_2"
+				}
+			},
+			"leggings_lead": {
+				"model": "thermalfoundation:armor/leggings",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/lead_1",
+					"texture1": "thermalfoundation:3dres/armor/lead_2"
+				}
+			},
+			"boots_lead": {
+				"model": "thermalfoundation:armor/boots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/lead_1",
+					"texture1": "thermalfoundation:3dres/armor/lead_2"
+				}
+			},
+			"helmet_aluminum": {
+				"model": "thermalfoundation:armor/helmet",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/aluminum_1",
+					"texture1": "thermalfoundation:3dres/armor/aluminum_2"
+				}
+			},
+			"chestplate_aluminum": {
+				"model": "thermalfoundation:armor/chestplate",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/aluminum_1",
+					"texture1": "thermalfoundation:3dres/armor/aluminum_2"
+				}
+			},
+			"leggings_aluminum": {
+				"model": "thermalfoundation:armor/leggings",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/aluminum_1",
+					"texture1": "thermalfoundation:3dres/armor/aluminum_2"
+				}
+			},
+			"boots_aluminum": {
+				"model": "thermalfoundation:armor/boots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/aluminum_1",
+					"texture1": "thermalfoundation:3dres/armor/aluminum_2"
+				}
+			},
+			"helmet_nickel": {
+				"model": "thermalfoundation:armor/helmet",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/nickel_1",
+					"texture1": "thermalfoundation:3dres/armor/nickel_2"
+				}
+			},
+			"chestplate_nickel": {
+				"model": "thermalfoundation:armor/chestplate",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/nickel_1",
+					"texture1": "thermalfoundation:3dres/armor/nickel_2"
+				}
+			},
+			"leggings_nickel": {
+				"model": "thermalfoundation:armor/leggings",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/nickel_1",
+					"texture1": "thermalfoundation:3dres/armor/nickel_2"
+				}
+			},
+			"boots_nickel": {
+				"model": "thermalfoundation:armor/boots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/nickel_1",
+					"texture1": "thermalfoundation:3dres/armor/nickel_2"
+				}
+			},
+			"helmet_platinum": {
+				"model": "thermalfoundation:armor/helmet",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/platinum_1",
+					"texture1": "thermalfoundation:3dres/armor/platinum_2"
+				}
+			},
+			"chestplate_platinum": {
+				"model": "thermalfoundation:armor/chestplate",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/platinum_1",
+					"texture1": "thermalfoundation:3dres/armor/platinum_2"
+				}
+			},
+			"leggings_platinum": {
+				"model": "thermalfoundation:armor/leggings",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/platinum_1",
+					"texture1": "thermalfoundation:3dres/armor/platinum_2"
+				}
+			},
+			"boots_platinum": {
+				"model": "thermalfoundation:armor/boots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/platinum_1",
+					"texture1": "thermalfoundation:3dres/armor/platinum_2"
+				}
+			},
+			"helmet_steel": {
+				"model": "thermalfoundation:armor/helmet",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/steel_1",
+					"texture1": "thermalfoundation:3dres/armor/steel_2"
+				}
+			},
+			"chestplate_steel": {
+				"model": "thermalfoundation:armor/chestplate",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/steel_1",
+					"texture1": "thermalfoundation:3dres/armor/steel_2"
+				}
+			},
+			"leggings_steel": {
+				"model": "thermalfoundation:armor/leggings",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/steel_1",
+					"texture1": "thermalfoundation:3dres/armor/steel_2"
+				}
+			},
+			"boots_steel": {
+				"model": "thermalfoundation:armor/boots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/steel_1",
+					"texture1": "thermalfoundation:3dres/armor/steel_2"
+				}
+			},
+			"helmet_electrum": {
+				"model": "thermalfoundation:armor/helmet",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/electrum_1",
+					"texture1": "thermalfoundation:3dres/armor/electrum_2"
+				}
+			},
+			"chestplate_electrum": {
+				"model": "thermalfoundation:armor/chestplate",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/electrum_1",
+					"texture1": "thermalfoundation:3dres/armor/electrum_2"
+				}
+			},
+			"leggings_electrum": {
+				"model": "thermalfoundation:armor/leggings",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/electrum_1",
+					"texture1": "thermalfoundation:3dres/armor/electrum_2"
+				}
+			},
+			"boots_electrum": {
+				"model": "thermalfoundation:armor/boots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/electrum_1",
+					"texture1": "thermalfoundation:3dres/armor/electrum_2"
+				}
+			},
+			"helmet_invar": {
+				"model": "thermalfoundation:armor/helmet",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/invar_1",
+					"texture1": "thermalfoundation:3dres/armor/invar_2"
+				}
+			},
+			"chestplate_invar": {
+				"model": "thermalfoundation:armor/chestplate",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/invar_1",
+					"texture1": "thermalfoundation:3dres/armor/invar_2"
+				}
+			},
+			"leggings_invar": {
+				"model": "thermalfoundation:armor/leggings",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/invar_1",
+					"texture1": "thermalfoundation:3dres/armor/invar_2"
+				}
+			},
+			"boots_invar": {
+				"model": "thermalfoundation:armor/boots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/invar_1",
+					"texture1": "thermalfoundation:3dres/armor/invar_2"
+				}
+			},
+			"helmet_bronze": {
+				"model": "thermalfoundation:armor/helmet",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/bronze_1",
+					"texture1": "thermalfoundation:3dres/armor/bronze_2"
+				}
+			},
+			"chestplate_bronze": {
+				"model": "thermalfoundation:armor/chestplate",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/bronze_1",
+					"texture1": "thermalfoundation:3dres/armor/bronze_2"
+				}
+			},
+			"leggings_bronze": {
+				"model": "thermalfoundation:armor/leggings",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/bronze_1",
+					"texture1": "thermalfoundation:3dres/armor/bronze_2"
+				}
+			},
+			"boots_bronze": {
+				"model": "thermalfoundation:armor/boots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/bronze_1",
+					"texture1": "thermalfoundation:3dres/armor/bronze_2"
+				}
+			},
+			"helmet_constantan": {
+				"model": "thermalfoundation:armor/helmet",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/constantan_1",
+					"texture1": "thermalfoundation:3dres/armor/constantan_2"
+				}
+			},
+			"chestplate_constantan": {
+				"model": "thermalfoundation:armor/chestplate",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/constantan_1",
+					"texture1": "thermalfoundation:3dres/armor/constantan_2"
+				}
+			},
+			"leggings_constantan": {
+				"model": "thermalfoundation:armor/leggings",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/constantan_1",
+					"texture1": "thermalfoundation:3dres/armor/constantan_2"
+				}
+			},
+			"boots_constantan": {
+				"model": "thermalfoundation:armor/boots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/armor/constantan_1",
+					"texture1": "thermalfoundation:3dres/armor/constantan_2"
+				}
+			}
+		}
+	}
+}

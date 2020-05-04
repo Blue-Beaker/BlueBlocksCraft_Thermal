@@ -1,0 +1,6 @@
+{
+	"parent": "thermalfoundation:item/bow_pulling_2",
+	"textures": {
+		"stick": "thermalfoundation:3dres/tools/bows/invar"
+	}
+}

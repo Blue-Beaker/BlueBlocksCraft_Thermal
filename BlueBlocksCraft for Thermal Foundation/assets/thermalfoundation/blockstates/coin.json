@@ -1,0 +1,127 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"texture": "blocks/dirt"
+		}
+	},
+	"variants": {
+		"type": {
+			"coiniron": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/iron"
+				}
+			},
+			"coingold": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/gold"
+				}
+			},
+			"coincopper": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/copper"
+				}
+			},
+			"cointin": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/tin"
+				}
+			},
+			"coinsilver": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/silver"
+				}
+			},
+			"coinlead": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/lead"
+				}
+			},
+			"coinaluminum": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/aluminum"
+				}
+			},
+			"coinnickel": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/nickel"
+				}
+			},
+			"coinplatinum": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/platinum"
+				}
+			},
+			"coiniridium": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/iridium"
+				}
+			},
+			"coinmithril": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/mithril"
+				}
+			},
+			"coinsteel": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/steel"
+				}
+			},
+			"coinelectrum": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/electrum"
+				}
+			},
+			"coininvar": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/invar"
+				}
+			},
+			"coinbronze": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/bronze"
+				}
+			},
+			"coinconstantan": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/constantan"
+				}
+			},
+			"coinsignalum": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/signalum"
+				}
+			},
+			"coinlumium": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/lumium"
+				}
+			},
+			"coinenderium": {
+				"model": "thermalfoundation:coins",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coins/enderium"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "thermalfoundation:upgrades/incremental"
+	},
+	"variants": {
+		"type": {
+			"incremental1": {
+				"textures": {
+					"texture": "thermalfoundation:3dres/upgrades/incremental_1"
+				}
+			},
+			"incremental2": {
+				"textures": {
+					"texture": "thermalfoundation:3dres/upgrades/incremental_2"
+				}
+			},
+			"incremental3": {
+				"textures": {
+					"texture": "thermalfoundation:3dres/upgrades/incremental_3"
+				}
+			},
+			"incremental4": {
+				"textures": {
+					"texture": "thermalfoundation:3dres/upgrades/incremental_4"
+				}
+			},
+			"full2": {
+				"model": "thermalfoundation:upgrades/full_2",
+				"textures": {
+					"texture": "thermalfoundation:3dres/upgrades/full_2"
+				}
+			},
+			"full3": {
+				"model": "thermalfoundation:upgrades/full_3",
+				"textures": {
+					"texture": "thermalfoundation:3dres/upgrades/full_3"
+				}
+			},
+			"full4": {
+				"model": "thermalfoundation:upgrades/full_4",
+				"textures": {
+					"texture": "thermalfoundation:3dres/upgrades/full_4"
+				}
+			},
+			"creative": {
+				"model": "thermalfoundation:upgrades/creative",
+				"textures": {
+					"texture": "thermalfoundation:3dres/upgrades/creative"
+				}
+			}
+		}
+	}
+}

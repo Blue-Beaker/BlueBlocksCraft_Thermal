@@ -1,0 +1,65 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "thermalfoundation:hardened_glass2",
+		"transform": "forge:default-block"
+	},
+	"variants": {
+		"type": {
+			"copper": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_copper",
+					"particle": "thermalfoundation:blocks/glass/glass_copper"
+				}
+			},
+			"tin": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_tin",
+					"particle": "thermalfoundation:blocks/glass/glass_tin"
+				}
+			},
+			"silver": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_silver",
+					"particle": "thermalfoundation:blocks/glass/glass_silver"
+				}
+			},
+			"lead": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_lead",
+					"particle": "thermalfoundation:blocks/glass/glass_lead"
+				}
+			},
+			"aluminum": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_aluminum",
+					"particle": "thermalfoundation:blocks/glass/glass_aluminum"
+				}
+			},
+			"nickel": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_nickel",
+					"particle": "thermalfoundation:blocks/glass/glass_nickel"
+				}
+			},
+			"platinum": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_platinum",
+					"particle": "thermalfoundation:blocks/glass/glass_platinum"
+				}
+			},
+			"iridium": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_iridium",
+					"particle": "thermalfoundation:blocks/glass/glass_iridium"
+				}
+			},
+			"mithril": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_mithril",
+					"particle": "thermalfoundation:blocks/glass/glass_mithril"
+				}
+			}
+		}
+	}
+}

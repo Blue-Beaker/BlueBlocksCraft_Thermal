@@ -1,0 +1,59 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "thermalfoundation:hardened_glass2",
+		"transform": "forge:default-block"
+	},
+	"variants": {
+		"type": {
+			"steel": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_steel",
+					"particle": "thermalfoundation:blocks/glass/glass_steel"
+				}
+			},
+			"electrum": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_electrum",
+					"particle": "thermalfoundation:blocks/glass/glass_electrum"
+				}
+			},
+			"invar": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_invar",
+					"particle": "thermalfoundation:blocks/glass/glass_invar"
+				}
+			},
+			"bronze": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_bronze",
+					"particle": "thermalfoundation:blocks/glass/glass_bronze"
+				}
+			},
+			"constantan": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_constantan",
+					"particle": "thermalfoundation:blocks/glass/glass_constantan"
+				}
+			},
+			"signalum": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_signalum",
+					"particle": "thermalfoundation:blocks/glass/glass_signalum"
+				}
+			},
+			"lumium": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_lumium",
+					"particle": "thermalfoundation:blocks/glass/glass_lumium"
+				}
+			},
+			"enderium": {
+				"textures": {
+					"texture": "thermalfoundation:blocks/glass/glass_enderium",
+					"particle": "thermalfoundation:blocks/glass/glass_enderium"
+				}
+			}
+		}
+	}
+}

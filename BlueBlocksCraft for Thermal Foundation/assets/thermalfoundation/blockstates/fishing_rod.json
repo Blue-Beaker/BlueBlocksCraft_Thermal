@@ -1,0 +1,18 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "thermalfoundation:fishing_rod",
+		"textures": {
+			"layer0": "blocks/dirt"
+		}
+	},
+	"variants": {
+		"type": {
+			"fishing_rod_copper": {
+				"model": "thermalfoundation:fishing_rod",
+				"textures":{
+					"texture2":"thermalfoundation:3dres/tools/fishingrods/copper"
+				}
+			}
+		}
+	}

@@ -1,0 +1,814 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "blocks/dirt"
+		}
+	},
+	"variants": {
+		"type": {
+			"dustiron": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/iron"
+				}
+			},
+			"dustgold": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/gold"
+				}
+			},
+			"dustcoal": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/coal"
+				}
+			},
+			"dustcharcoal": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/charcoal"
+				}
+			},
+			"dustobsidian": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/obsidian"
+				}
+			},
+			"dustsulfur": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/sulfur"
+				}
+			},
+			"dustniter": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/niter"
+				}
+			},
+			"dustcopper": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/copper"
+				}
+			},
+			"dusttin": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/tin"
+				}
+			},
+			"dustsilver": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/silver"
+				}
+			},
+			"dustlead": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/lead"
+				}
+			},
+			"dustaluminum": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/aluminum"
+				}
+			},
+			"dustnickel": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/nickel"
+				}
+			},
+			"dustplatinum": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/platinum"
+				}
+			},
+			"dustiridium": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/iridium"
+				}
+			},
+			"dustmithril": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/mithril"
+				}
+			},
+			"duststeel": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/steel"
+				}
+			},
+			"dustelectrum": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/electrum"
+				}
+			},
+			"dustinvar": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/invar"
+				}
+			},
+			"dustbronze": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/bronze"
+				}
+			},
+			"dustconstantan": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/constantan"
+				}
+			},
+			"dustsignalum": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/signalum"
+				}
+			},
+			"dustlumium": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/lumium"
+				}
+			},
+			"dustenderium": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/enderium"
+				}
+			},
+			"ingotcopper": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/copper"
+				}
+			},
+			"ingottin": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/tin"
+				}
+			},
+			"ingotsilver": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/silver"
+				}
+			},
+			"ingotlead": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/lead"
+				}
+			},
+			"ingotaluminum": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/aluminum"
+				}
+			},
+			"ingotnickel": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/nickel"
+				}
+			},
+			"ingotplatinum": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/platinum"
+				}
+			},
+			"ingotiridium": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/iridium"
+				}
+			},
+			"ingotmithril": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/mithril"
+				}
+			},
+			"ingotsteel": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/steel"
+				}
+			},
+			"ingotelectrum": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/electrum"
+				}
+			},
+			"ingotinvar": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/invar"
+				}
+			},
+			"ingotbronze": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/bronze"
+				}
+			},
+			"ingotconstantan": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/constantan"
+				}
+			},
+			"ingotsignalum": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/signalum"
+				}
+			},
+			"ingotlumium": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/lumium"
+				}
+			},
+			"ingotenderium": {
+				"model": "thermalfoundation:ingots",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/enderium"
+				}
+			},
+			"nuggetdiamond": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/diamond"
+				}
+			},
+			"nuggetemerald": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/emerald"
+				}
+			},
+			"nuggetcopper": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/copper"
+				}
+			},
+			"nuggettin": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/tin"
+				}
+			},
+			"nuggetsilver": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/silver"
+				}
+			},
+			"nuggetlead": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/lead"
+				}
+			},
+			"nuggetaluminum": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/aluminum"
+				}
+			},
+			"nuggetnickel": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/nickel"
+				}
+			},
+			"nuggetplatinum": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/platinum"
+				}
+			},
+			"nuggetiridium": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/iridium"
+				}
+			},
+			"nuggetmithril": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/mithril"
+				}
+			},
+			"nuggetsteel": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/steel"
+				}
+			},
+			"nuggetelectrum": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/electrum"
+				}
+			},
+			"nuggetinvar": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/invar"
+				}
+			},
+			"nuggetbronze": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/bronze"
+				}
+			},
+			"nuggetconstantan": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/constantan"
+				}
+			},
+			"nuggetsignalum": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/signalum"
+				}
+			},
+			"nuggetlumium": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/lumium"
+				}
+			},
+			"nuggetenderium": {
+				"model": "thermalfoundation:nuggets",
+				"textures": {
+					"texture": "thermalfoundation:3dres/ingots/enderium"
+				}
+			},
+			"gearwood": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/wood"
+				}
+			},
+			"gearstone": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/stone"
+				}
+			},
+			"geariron": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/iron"
+				}
+			},
+			"geargold": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/gold"
+				}
+			},
+			"geardiamond": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/diamond"
+				}
+			},
+			"gearemerald": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/emerald"
+				}
+			},
+			"gearcopper": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/copper"
+				}
+			},
+			"geartin": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/tin"
+				}
+			},
+			"gearsilver": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/silver"
+				}
+			},
+			"gearlead": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/lead"
+				}
+			},
+			"gearaluminum": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/aluminum"
+				}
+			},
+			"gearnickel": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/nickel"
+				}
+			},
+			"gearplatinum": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/platinum"
+				}
+			},
+			"geariridium": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/iridium"
+				}
+			},
+			"gearmithril": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/mithril"
+				}
+			},
+			"gearsteel": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/steel"
+				}
+			},
+			"gearelectrum": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/electrum"
+				}
+			},
+			"gearinvar": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/invar"
+				}
+			},
+			"gearbronze": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/bronze"
+				}
+			},
+			"gearconstantan": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/constantan"
+				}
+			},
+			"gearsignalum": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/signalum"
+				}
+			},
+			"gearlumium": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/lumium"
+				}
+			},
+			"gearenderium": {
+				"model": "thermalfoundation:gears",
+				"textures": {
+					"texture": "thermalfoundation:3dres/gears/enderium"
+				}
+			},
+			"plateiron": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/iron"
+				}
+			},
+			"plategold": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/gold"
+				}
+			},
+			"platecopper": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/copper"
+				}
+			},
+			"platetin": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/tin"
+				}
+			},
+			"platesilver": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/silver"
+				}
+			},
+			"platelead": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/lead"
+				}
+			},
+			"platealuminum": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/aluminum"
+				}
+			},
+			"platenickel": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/nickel"
+				}
+			},
+			"plateplatinum": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/platinum"
+				}
+			},
+			"plateiridium": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/iridium"
+				}
+			},
+			"platemithril": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/mithril"
+				}
+			},
+			"platesteel": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/steel"
+				}
+			},
+			"plateelectrum": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/electrum"
+				}
+			},
+			"plateinvar": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/invar"
+				}
+			},
+			"platebronze": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/bronze"
+				}
+			},
+			"plateconstantan": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/constantan"
+				}
+			},
+			"platesignalum": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/signalum"
+				}
+			},
+			"platelumium": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/lumium"
+				}
+			},
+			"plateenderium": {
+				"model": "thermalfoundation:plates",
+				"textures": {
+					"texture": "thermalfoundation:3dres/plates/enderium"
+				}
+			},
+			"redstoneservo": {
+				"model": "thermalfoundation:redstone_servo"
+			},
+			"powercoilgold": {
+				"model": "thermalfoundation:coils",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coils/gold"
+				}
+			},
+			"powercoilsilver": {
+				"model": "thermalfoundation:coils",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coils/silver"
+				}
+			},
+			"powercoilelectrum": {
+				"model": "thermalfoundation:coil2",
+				"textures": {
+					"texture": "thermalfoundation:3dres/coils/electrum"
+				}
+			},
+			"parttoolcasing": {
+				"model": "thermalfoundation:tool_casing"
+			},
+			"partdrillhead": {
+				"model": "thermalfoundation:drill_head"
+			},
+			"partsawblade": {
+				"model": "thermalfoundation:saw_blade"
+			},
+			"dustwood": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/wood"
+				}
+			},
+			"dustwoodcompressed": {
+				"model": "thermalfoundation:compressed_wood_dust"
+			},
+			"fuelcoke": {
+				"model": "thermalfoundation:coal_coke"
+			},
+			"dustbiomass": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/biomass"
+				}
+			},
+			"dustbiomassrich": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/biomass_rich"
+				}
+			},
+			"dustbioblend": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/bioblend"
+				}
+			},
+			"dustbioblendrich": {
+				"model": "thermalfoundation:dusts",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/bioblend_rich"
+				}
+			},
+			"globrosin": {
+				"model": "thermalfoundation:slimeballs",
+				"textures": {
+					"texture": "thermalfoundation:3dres/slimeballs/rosin"
+				}
+			},
+			"globtar": {
+				"model": "thermalfoundation:slimeballs",
+				"textures": {
+					"texture": "thermalfoundation:3dres/slimeballs/tar"
+				}
+			},
+			"crystalslag": {
+				"model": "thermalfoundation:crystals_solid",
+				"textures": {
+					"texture": "thermalfoundation:3dres/crystals/slag"
+				}
+			},
+			"crystalslagrich": {
+				"model": "thermalfoundation:crystals_solid",
+				"textures": {
+					"texture": "thermalfoundation:3dres/crystals/slag_rich"
+				}
+			},
+			"crystalcinnabar": {
+				"model": "thermalfoundation:crystals_solid",
+				"textures": {
+					"texture": "thermalfoundation:3dres/crystals/cinnabar"
+				}
+			},
+			"crystalcrudeoil": {
+				"model": "thermalfoundation:crystals_solid",
+				"textures": {
+					"texture": "thermalfoundation:3dres/crystals/crude_oil"
+				}
+			},
+			"crystalredstone": {
+				"model": "thermalfoundation:crystals_fluid",
+				"textures": {
+					"texture": "thermalfoundation:3dres/crystals/redstone",
+					"fluid": "thermalfoundation:blocks/fluid/redstone_flow"
+				}
+			},
+			"crystalglowstone": {
+				"model": "thermalfoundation:crystals_fluid",
+				"textures": {
+					"texture": "thermalfoundation:3dres/crystals/glowstone",
+					"fluid": "thermalfoundation:blocks/fluid/glowstone_flow"
+				}
+			},
+			"crystalender": {
+				"model": "thermalfoundation:crystals_fluid",
+				"textures": {
+					"texture": "thermalfoundation:3dres/crystals/ender",
+					"fluid": "thermalfoundation:blocks/fluid/ender_flow"
+				}
+			},
+			"dustpyrotheum": {
+				"model": "thermalfoundation:dusts_elemental",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/pyrotheum"
+				}
+			},
+			"dustcryotheum": {
+				"model": "thermalfoundation:dusts_elemental",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/cryotheum"
+				}
+			},
+			"dustaerotheum": {
+				"model": "thermalfoundation:dusts_elemental",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/aerotheum"
+				}
+			},
+			"dustpetrotheum": {
+				"model": "thermalfoundation:dusts_elemental",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/petrotheum"
+				}
+			},
+			"dustmana": {
+				"model": "thermalfoundation:dusts_elemental",
+				"textures": {
+					"texture": "thermalfoundation:3dres/dusts/mana"
+				}
+			},
+			"rodblizz": {
+				"model": "thermalfoundation:rods",
+				"textures": {
+					"texture": "thermalfoundation:3dres/rods/blizz"
+				}
+			},
+			"dustblizz": {
+				"model": "thermalfoundation:powders",
+				"textures": {
+					"particle": "thermalfoundation:3dres/powders/blizz"
+				}
+			},
+			"rodblitz": {
+				"model": "thermalfoundation:rods",
+				"textures": {
+					"texture": "thermalfoundation:3dres/rods/blitz"
+				}
+			},
+			"dustblitz": {
+				"model": "thermalfoundation:powders",
+				"textures": {
+					"particle": "thermalfoundation:3dres/powders/blitz"
+				}
+			},
+			"rodbasalz": {
+				"model": "thermalfoundation:rods",
+				"textures": {
+					"texture": "thermalfoundation:3dres/rods/basalz"
+				}
+			},
+			"dustbasalz": {
+				"model": "thermalfoundation:powders",
+				"textures": {
+					"particle": "thermalfoundation:3dres/powders/basalz"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "thermalfoundation:baits",
+		"textures": {
+			"layer0": "blocks/dirt"
+		}
+	},
+	"variants": {
+		"type": {
+			"baitbasic": {
+				"textures": {
+					"texture": "thermalfoundation:3dres/baits/basic"
+				}
+			},
+			"baitrich": {
+				"textures": {
+					"texture": "thermalfoundation:3dres/baits/rich"
+				}
+			},
+			"baitflux": {
+				"textures": {
+					"texture": "thermalfoundation:3dres/baits/flux"
+				}
+			}
+		}
+	}
+}

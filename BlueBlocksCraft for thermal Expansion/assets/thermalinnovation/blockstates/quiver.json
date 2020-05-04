@@ -1,0 +1,193 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "thermalinnovation:items/quiver/quiver_0",
+			"layer1": "thermalinnovation:items/blank",
+			"layer2": "thermalinnovation:items/blank",
+			"layer3": "thermalinnovation:items/blank",
+			"layer4": "thermalinnovation:items/blank"
+		},
+		"transform": {
+			"thirdperson_righthand": {
+				"rotation": [{
+					"y": -90},{
+					"z": -35}
+				],
+				"translation": [ 0, -0.15, 0 ],
+				"scale": [ 0.6,	0.6, 0.6 ]
+			},
+			"thirdperson_lefthand": {
+				"rotation": [{
+					"y": 90},{
+					"z": 35}
+				],
+				"translation": [ 0, -0.15, 0 ],
+				"scale": [ 0.6,	0.6, 0.6 ]
+			},
+			"firstperson_righthand": {
+				"rotation": [{
+					"y": -90},{
+					"z": -55}
+				],
+				"translation": [ 0, 0.25, 0.1 ],
+				"scale": [ 0.55, 0.55, 0.55	]
+			},
+			"firstperson_lefthand": {
+				"rotation": [{
+					"y": 90},{
+					"z": 55}
+				],
+				"translation": [ 0,	0.25, 0.1 ],
+				"scale": [ 0.55, 0.55, 0.55	]
+			},
+			"ground": {
+				"translation": [0, 0.15, 0],
+				"scale": [0.5, 0.5, 0.5]
+			}
+		}
+	},
+	"variants": {
+		"arrows": {
+			"0": {
+			},
+			"1": {
+				"textures": {
+					"layer4": "thermalinnovation:items/quiver/quiver_arrows_1"
+				}
+			},
+			"2": {
+				"textures": {
+					"layer4": "thermalinnovation:items/quiver/quiver_arrows_2"
+				}
+			},
+			"3": {
+				"textures": {
+					"layer4": "thermalinnovation:items/quiver/quiver_arrows_3"
+				}
+			},
+			"4": {
+				"textures": {
+					"layer4": "thermalinnovation:items/quiver/quiver_arrows_4"
+				}
+			}
+		},
+		"color0": {
+			"0": {
+
+			},
+			"1": {
+				"textures": {
+					"layer2": "thermalinnovation:items/quiver/quiver_color_0"
+				}
+			}
+		},
+		"color1": {
+			"0": {
+
+			},
+			"1": {
+				"textures": {
+					"layer3": "thermalinnovation:items/quiver/quiver_color_1"
+				}
+			}
+		},
+		"fill": {
+			"0": {
+			},
+			"1": {
+				"textures": {
+					"layer1": "thermalinnovation:items/quiver/quiver_gauge_1"
+				}
+			},
+			"2": {
+				"textures": {
+					"layer1": "thermalinnovation:items/quiver/quiver_gauge_2"
+				}
+			},
+			"3": {
+				"textures": {
+					"layer1": "thermalinnovation:items/quiver/quiver_gauge_3"
+				}
+			},
+			"4": {
+				"textures": {
+					"layer1": "thermalinnovation:items/quiver/quiver_gauge_4"
+				}
+			},
+			"5": {
+				"textures": {
+					"layer1": "thermalinnovation:items/quiver/quiver_gauge_5"
+				}
+			},
+			"6": {
+				"textures": {
+					"layer1": "thermalinnovation:items/quiver/quiver_gauge_6"
+				}
+			},
+			"7": {
+				"textures": {
+					"layer1": "thermalinnovation:items/quiver/quiver_gauge_7"
+				}
+			},
+			"8": {
+				"textures": {
+					"layer1": "thermalinnovation:items/quiver/quiver_gauge_8"
+				}
+			},
+			"9": {
+				"textures": {
+					"layer1": "thermalinnovation:items/quiver/quiver_gauge_9"
+				}
+			},
+			"10": {
+				"textures": {
+					"layer1": "thermalinnovation:items/quiver/quiver_gauge_10"
+				}
+			},
+			"11": {
+				"textures": {
+					"layer1": "thermalinnovation:items/quiver/quiver_gauge_11"
+				}
+			},
+			"12": {
+				"textures": {
+					"layer1": "thermalinnovation:items/quiver/quiver_gauge_12"
+				}
+			}
+		},
+		"type": {
+			"standard0": {
+				"textures": {
+					"layer0": "thermalinnovation:items/quiver/quiver_0"
+				}
+			},
+			"standard1": {
+				"textures": {
+					"layer0": "thermalinnovation:items/quiver/quiver_1"
+				}
+			},
+			"standard2": {
+				"textures": {
+					"layer0": "thermalinnovation:items/quiver/quiver_2"
+				}
+			},
+			"standard3": {
+				"textures": {
+					"layer0": "thermalinnovation:items/quiver/quiver_3"
+				}
+			},
+			"standard4": {
+				"textures": {
+					"layer0": "thermalinnovation:items/quiver/quiver_4"
+				}
+			},
+			"creative": {
+				"textures": {
+					"layer0": "thermalinnovation:items/quiver/quiver_c"
+				}
+			}
+		}
+	}
+}

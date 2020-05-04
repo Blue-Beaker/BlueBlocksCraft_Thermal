@@ -1,0 +1,855 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "blocks/dirt"
+		}
+	},
+	"variants": {
+		"type": {
+			"sword_copper": {
+				"model": "thermalfoundation:tools/sword",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/swords/copper"
+				}
+			},
+			"shovel_copper": {
+				"model": "thermalfoundation:tools/shovel",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shovels/copper"
+				}
+			},
+			"pickaxe_copper": {
+				"model": "thermalfoundation:tools/pickaxe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/pickaxes/copper"
+				}
+			},
+			"axe_copper": {
+				"model": "thermalfoundation:tools/axe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/axes/copper"
+				}
+			},
+			"hoe_copper": {
+				"model": "thermalfoundation:tools/hoe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hoes/copper"
+				}
+			},
+			"shears_copper": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/copper"
+				}
+			},
+			"sickle_copper": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/copper"
+				}
+			},
+			"hammer_copper": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/copper"
+				}
+			},
+			"excavator_copper": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/copper"
+				}
+			},
+			"shield_copper": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_copper"
+				}
+			},
+			"sword_tin": {
+				"model": "thermalfoundation:tools/sword",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/swords/tin"
+				}
+			},
+			"shovel_tin": {
+				"model": "thermalfoundation:tools/shovel",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shovels/tin"
+				}
+			},
+			"pickaxe_tin": {
+				"model": "thermalfoundation:tools/pickaxe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/pickaxes/tin"
+				}
+			},
+			"axe_tin": {
+				"model": "thermalfoundation:tools/axe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/axes/tin"
+				}
+			},
+			"hoe_tin": {
+				"model": "thermalfoundation:tools/hoe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hoes/tin"
+				}
+			},
+			"shears_tin": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/tin"
+				}
+			},
+			"sickle_tin": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/tin"
+				}
+			},
+			"hammer_tin": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/tin"
+				}
+			},
+			"excavator_tin": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/tin"
+				}
+			},
+			"shield_tin": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_tin"
+				}
+			},
+			"sword_silver": {
+				"model": "thermalfoundation:tools/sword",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/swords/silver"
+				}
+			},
+			"shovel_silver": {
+				"model": "thermalfoundation:tools/shovel",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shovels/silver"
+				}
+			},
+			"pickaxe_silver": {
+				"model": "thermalfoundation:tools/pickaxe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/pickaxes/silver"
+				}
+			},
+			"axe_silver": {
+				"model": "thermalfoundation:tools/axe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/axes/silver"
+				}
+			},
+			"hoe_silver": {
+				"model": "thermalfoundation:tools/hoe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hoes/silver"
+				}
+			},
+			"shears_silver": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/silver"
+				}
+			},
+			"sickle_silver": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/silver"
+				}
+			},
+			"hammer_silver": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/silver"
+				}
+			},
+			"excavator_silver": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/silver"
+				}
+			},
+			"shield_silver": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_silver"
+				}
+			},
+			"sword_lead": {
+				"model": "thermalfoundation:tools/sword",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/swords/lead"
+				}
+			},
+			"shovel_lead": {
+				"model": "thermalfoundation:tools/shovel",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shovels/lead"
+				}
+			},
+			"pickaxe_lead": {
+				"model": "thermalfoundation:tools/pickaxe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/pickaxes/lead"
+				}
+			},
+			"axe_lead": {
+				"model": "thermalfoundation:tools/axe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/axes/lead"
+				}
+			},
+			"hoe_lead": {
+				"model": "thermalfoundation:tools/hoe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hoes/lead"
+				}
+			},
+			"shears_lead": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/lead"
+				}
+			},
+			"sickle_lead": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/lead"
+				}
+			},
+			"hammer_lead": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/lead"
+				}
+			},
+			"excavator_lead": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/lead"
+				}
+			},
+			"shield_lead": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_lead"
+				}
+			},
+			"sword_aluminum": {
+				"model": "thermalfoundation:tools/sword",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/swords/aluminum"
+				}
+			},
+			"shovel_aluminum": {
+				"model": "thermalfoundation:tools/shovel",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shovels/aluminum"
+				}
+			},
+			"pickaxe_aluminum": {
+				"model": "thermalfoundation:tools/pickaxe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/pickaxes/aluminum"
+				}
+			},
+			"axe_aluminum": {
+				"model": "thermalfoundation:tools/axe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/axes/aluminum"
+				}
+			},
+			"hoe_aluminum": {
+				"model": "thermalfoundation:tools/hoe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hoes/aluminum"
+				}
+			},
+			"shears_aluminum": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/aluminum"
+				}
+			},
+			"sickle_aluminum": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/aluminum"
+				}
+			},
+			"hammer_aluminum": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/aluminum"
+				}
+			},
+			"excavator_aluminum": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/aluminum"
+				}
+			},
+			"shield_aluminum": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_aluminum"
+				}
+			},
+			"sword_nickel": {
+				"model": "thermalfoundation:tools/sword",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/swords/nickel"
+				}
+			},
+			"shovel_nickel": {
+				"model": "thermalfoundation:tools/shovel",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shovels/nickel"
+				}
+			},
+			"pickaxe_nickel": {
+				"model": "thermalfoundation:tools/pickaxe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/pickaxes/nickel"
+				}
+			},
+			"axe_nickel": {
+				"model": "thermalfoundation:tools/axe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/axes/nickel"
+				}
+			},
+			"hoe_nickel": {
+				"model": "thermalfoundation:tools/hoe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hoes/nickel"
+				}
+			},
+			"shears_nickel": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/nickel"
+				}
+			},
+			"sickle_nickel": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/nickel"
+				}
+			},
+			"hammer_nickel": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/nickel"
+				}
+			},
+			"excavator_nickel": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/nickel"
+				}
+			},
+			"shield_nickel": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_nickel"
+				}
+			},
+			"sword_platinum": {
+				"model": "thermalfoundation:tools/sword",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/swords/platinum"
+				}
+			},
+			"shovel_platinum": {
+				"model": "thermalfoundation:tools/shovel",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shovels/platinum"
+				}
+			},
+			"pickaxe_platinum": {
+				"model": "thermalfoundation:tools/pickaxe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/pickaxes/platinum"
+				}
+			},
+			"axe_platinum": {
+				"model": "thermalfoundation:tools/axe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/axes/platinum"
+				}
+			},
+			"hoe_platinum": {
+				"model": "thermalfoundation:tools/hoe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hoes/platinum"
+				}
+			},
+			"shears_platinum": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/platinum"
+				}
+			},
+			"sickle_platinum": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/platinum"
+				}
+			},
+			"hammer_platinum": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/platinum"
+				}
+			},
+			"excavator_platinum": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/platinum"
+				}
+			},
+			"shield_platinum": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_platinum"
+				}
+			},
+			"sword_steel": {
+				"model": "thermalfoundation:tools/sword",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/swords/steel"
+				}
+			},
+			"shovel_steel": {
+				"model": "thermalfoundation:tools/shovel",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shovels/steel"
+				}
+			},
+			"pickaxe_steel": {
+				"model": "thermalfoundation:tools/pickaxe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/pickaxes/steel"
+				}
+			},
+			"axe_steel": {
+				"model": "thermalfoundation:tools/axe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/axes/steel"
+				}
+			},
+			"hoe_steel": {
+				"model": "thermalfoundation:tools/hoe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hoes/steel"
+				}
+			},
+			"shears_steel": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/steel"
+				}
+			},
+			"sickle_steel": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/steel"
+				}
+			},
+			"hammer_steel": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/steel"
+				}
+			},
+			"excavator_steel": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/steel"
+				}
+			},
+			"shield_steel": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_steel"
+				}
+			},
+			"sword_electrum": {
+				"model": "thermalfoundation:tools/sword",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/swords/electrum"
+				}
+			},
+			"shovel_electrum": {
+				"model": "thermalfoundation:tools/shovel",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shovels/electrum"
+				}
+			},
+			"pickaxe_electrum": {
+				"model": "thermalfoundation:tools/pickaxe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/pickaxes/electrum"
+				}
+			},
+			"axe_electrum": {
+				"model": "thermalfoundation:tools/axe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/axes/electrum"
+				}
+			},
+			"hoe_electrum": {
+				"model": "thermalfoundation:tools/hoe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hoes/electrum"
+				}
+			},
+			"shears_electrum": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/electrum"
+				}
+			},
+			"sickle_electrum": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/electrum"
+				}
+			},
+			"hammer_electrum": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/electrum"
+				}
+			},
+			"excavator_electrum": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/electrum"
+				}
+			},
+			"shield_electrum": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_electrum"
+				}
+			},
+			"sword_invar": {
+				"model": "thermalfoundation:tools/sword",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/swords/invar"
+				}
+			},
+			"shovel_invar": {
+				"model": "thermalfoundation:tools/shovel",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shovels/invar"
+				}
+			},
+			"pickaxe_invar": {
+				"model": "thermalfoundation:tools/pickaxe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/pickaxes/invar"
+				}
+			},
+			"axe_invar": {
+				"model": "thermalfoundation:tools/axe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/axes/invar"
+				}
+			},
+			"hoe_invar": {
+				"model": "thermalfoundation:tools/hoe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hoes/invar"
+				}
+			},
+			"shears_invar": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/invar"
+				}
+			},
+			"sickle_invar": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/invar"
+				}
+			},
+			"hammer_invar": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/invar"
+				}
+			},
+			"excavator_invar": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/invar"
+				}
+			},
+			"shield_invar": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_invar"
+				}
+			},
+			"sword_bronze": {
+				"model": "thermalfoundation:tools/sword",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/swords/bronze"
+				}
+			},
+			"shovel_bronze": {
+				"model": "thermalfoundation:tools/shovel",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shovels/bronze"
+				}
+			},
+			"pickaxe_bronze": {
+				"model": "thermalfoundation:tools/pickaxe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/pickaxes/bronze"
+				}
+			},
+			"axe_bronze": {
+				"model": "thermalfoundation:tools/axe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/axes/bronze"
+				}
+			},
+			"hoe_bronze": {
+				"model": "thermalfoundation:tools/hoe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hoes/bronze"
+				}
+			},
+			"shears_bronze": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/bronze"
+				}
+			},
+			"sickle_bronze": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/bronze"
+				}
+			},
+			"hammer_bronze": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/bronze"
+				}
+			},
+			"excavator_bronze": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/bronze"
+				}
+			},
+			"shield_bronze": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_bronze"
+				}
+			},
+			"sword_constantan": {
+				"model": "thermalfoundation:tools/sword",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/swords/constantan"
+				}
+			},
+			"shovel_constantan": {
+				"model": "thermalfoundation:tools/shovel",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shovels/constantan"
+				}
+			},
+			"pickaxe_constantan": {
+				"model": "thermalfoundation:tools/pickaxe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/pickaxes/constantan"
+				}
+			},
+			"axe_constantan": {
+				"model": "thermalfoundation:tools/axe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/axes/constantan"
+				}
+			},
+			"hoe_constantan": {
+				"model": "thermalfoundation:tools/hoe",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hoes/constantan"
+				}
+			},
+			"shears_constantan": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/constantan"
+				}
+			},
+			"sickle_constantan": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/constantan"
+				}
+			},
+			"hammer_constantan": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/constantan"
+				}
+			},
+			"excavator_constantan": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/constantan"
+				}
+			},
+			"shield_constantan": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_constantan"
+				}
+			},
+			"shears_wood": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/wood"
+				}
+			},
+			"sickle_wood": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/wood"
+				}
+			},
+			"hammer_wood": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/wood"
+				}
+			},
+			"excavator_wood": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/wood"
+				}
+			},
+			"shears_stone": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/stone"
+				}
+			},
+			"sickle_stone": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/stone"
+				}
+			},
+			"hammer_stone": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/stone"
+				}
+			},
+			"excavator_stone": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/stone"
+				}
+			},
+			"shield_stone": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_stone"
+				}
+			},
+			"sickle_iron": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/iron"
+				}
+			},
+			"hammer_iron": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/iron"
+				}
+			},
+			"excavator_iron": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/iron"
+				}
+			},
+			"shield_iron": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_iron"
+				}
+			},
+			"shears_gold": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/gold"
+				}
+			},
+			"sickle_gold": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/gold"
+				}
+			},
+			"hammer_gold": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/gold"
+				}
+			},
+			"excavator_gold": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/gold"
+				}
+			},
+			"shield_gold": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_gold"
+				}
+			},
+			"shears_diamond": {
+				"model": "thermalfoundation:tools/shears",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/shears/diamond"
+				}
+			},
+			"sickle_diamond": {
+				"model": "thermalfoundation:tools/sickle",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/sickles/diamond"
+				}
+			},
+			"hammer_diamond": {
+				"model": "thermalfoundation:tools/hammer",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/hammers/diamond"
+				}
+			},
+			"excavator_diamond": {
+				"model": "thermalfoundation:tools/excavator",
+				"textures": {
+					"head": "thermalfoundation:3dres/tools/excavators/diamond"
+				}
+			},
+			"shield_diamond": {
+				"textures": {
+					"layer0": "thermalfoundation:items/tool/shield_diamond"
+				}
+			}
+		}
+	}
+}
