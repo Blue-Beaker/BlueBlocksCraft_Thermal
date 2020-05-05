@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Blue_Beaker with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "3dres/flux_crystal",
-		"texture": "3dres/flux_crystal",
-		"texture1": "3dres/armor_flux_plate"
+		"particle": "redstonearsenal:3dres/flux_crystal",
+		"texture": "redstonearsenal:3dres/flux_crystal",
+		"texture1": "redstonearsenal:3dres/armor_flux_plate"
 	},
 	"elements": [ 	 
 		{
