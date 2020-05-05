@@ -1,16 +1,16 @@
 {
 	"__comment": "Designed by Blue_Beaker with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "redstonearsenal:3dres/flux_crystal",
-		"texture": "redstonearsenal:3dres/flux_crystal",
-		"texture1": "redstonearsenal:3dres/armor_flux_plate"
+		"particle": "3dres/flux_crystal",
+		"texture": "3dres/flux_crystal",
+		"texture1": "3dres/armor_flux_plate"
 	},
 	"elements": [ 	 
 		{
 			"__comment": "Box1",
-			"from": [ 5, 5, 7 ],
-			"to": [ 11, 11, 8 ],
-			"rotation": { "origin": [ 8, 8, 7.5 ], "axis": "z", "angle": -45 },
+			"from": [ 5, 5, 7.25 ],
+			"to": [ 11, 11, 8.75 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -45 },
 			"faces": {
 				"down": { "uv": [ 0, 15, 16, 16 ], "texture": "#texture" },
 				"up": { "uv": [ 0, 1, 16, 0 ], "texture": "#texture" },
