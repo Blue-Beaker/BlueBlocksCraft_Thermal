@@ -1,33 +1,20 @@
 {
 	"forge_marker": 1,
 	"defaults": {
-		"model": "builtin/generated",
-		"textures": {
-			"layer0": "blocks/dirt"
-		},
-		"transform": "forge:default-item"
 	},
 	"variants": {
 		"type": {
 			"helmet_flux": {
-				"textures": {
-					"layer0": "redstonearsenal:items/armor/helmet_flux"
-				}
+				"model":"redstonearsenal:armor/helmet"
 			},
 			"chestplate_flux": {
-				"textures": {
-					"layer0": "redstonearsenal:items/armor/chestplate_flux"
-				}
+				"model":"redstonearsenal:armor/chestplate"
 			},
 			"leggings_flux": {
-				"textures": {
-					"layer0": "redstonearsenal:items/armor/leggings_flux"
-				}
+				"model":"redstonearsenal:armor/leggings"
 			},
 			"boots_flux": {
-				"textures": {
-					"layer0": "redstonearsenal:items/armor/boots_flux"
-				}
+				"model":"redstonearsenal:armor/boots"
 			}
 		}
 	}

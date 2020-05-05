@@ -1,8 +1,7 @@
 {
 	"__comment": "Designed by Blue_Beaker with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "thermalfoundation:3dres/dusts/cryotheum",
-		"texture1": "thermalfoundation:3dres/dusts/plate"
+		"texture1": "redstonearsenal:3dres/dusts/plate"
 	},
 	"elements": [ 	 
 		{
