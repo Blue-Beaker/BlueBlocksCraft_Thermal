@@ -39,7 +39,7 @@
 				}
 			},
 			"gemcrystalflux": {
-				"model": "redstonearsenal:gem_flux"
+				"model": "redstonearsenal:flux_crystal"
 			},
 			"rodobsidian": {
 				"model": "redstonearsenal:rods",
@@ -54,7 +54,7 @@
 				}
 			},
 			"platearmorflux": {
-				"model": "redstonearsenal:armor_flux_plate"
+				"model": "redstonearsenal:flux_armor_plate"
 			}
 		}
 	}
