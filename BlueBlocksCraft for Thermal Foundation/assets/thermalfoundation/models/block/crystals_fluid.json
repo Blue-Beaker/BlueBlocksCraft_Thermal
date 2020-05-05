@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by  with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "3dres/crystals/redstone",
+		"texture": "thermalfoundation:3dres/crystals/redstone",
 		"fluid": "blocks/fluid/redstone_flow"
 	},
 	"elements": [ 	 

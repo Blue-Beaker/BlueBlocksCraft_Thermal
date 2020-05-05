@@ -2,7 +2,7 @@
 	"__comment": "Designed by Blue_Beaker with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"texture1": "thermalfoundation:3dres/tools/string",
-		"texture2": "3dres/tools/fishingrods/platinum"
+		"texture2": "thermalfoundation:3dres/tools/fishingrods/platinum"
 	},
 	"elements": [ 	 
 		{

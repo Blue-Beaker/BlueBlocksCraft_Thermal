@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by Blue_Beaker with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "3dres/ore_fluid/redstone_still",
-		"texture": "3dres/ore_fluid/stone",
-		"texture1": "3dres/ore_fluid/redstone_still",
-		"texture2": "3dres/ore_fluid/redstone_flow"
+		"particle": "thermalfoundation:3dres/ore_fluid/redstone_still",
+		"texture": "thermalfoundation:3dres/ore_fluid/stone",
+		"texture1": "thermalfoundation:3dres/ore_fluid/redstone_still",
+		"texture2": "thermalfoundation:3dres/ore_fluid/redstone_flow"
 	},
 	"elements": [ 	 
 		{

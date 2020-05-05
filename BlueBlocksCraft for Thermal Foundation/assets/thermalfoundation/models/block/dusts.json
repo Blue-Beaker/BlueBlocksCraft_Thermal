@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Blue_Beaker with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "3dres/dusts/enderium",
+		"texture": "thermalfoundation:3dres/dusts/enderium",
 		"texture1": "thermalfoundation:3dres/dusts/plate"
 	},
 	"elements": [ 	 

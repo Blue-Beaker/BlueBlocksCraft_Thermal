@@ -1,0 +1,61 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "blocks/dirt"
+		}
+	},
+	"variants": {
+		"type": {
+			"dustelectrumflux": {
+				"model": "redstonearsenal:dusts_elemental",
+				"textures": {
+					"texture": "redstonearsenal:3dres/dusts/flux"
+				}
+			},
+			"ingotelectrumflux": {
+				"model": "redstonearsenal:ingots",
+				"textures": {
+					"texture": "redstonearsenal:3dres/ingots/flux"
+				}
+			},
+			"nuggetelectrumflux": {
+				"model": "redstonearsenal:nuggets",
+				"textures": {
+					"texture": "redstonearsenal:3dres/ingots/flux"
+				}
+			},
+			"gearelectrumflux": {
+				"model": "redstonearsenal:gears",
+				"textures": {
+					"texture": "redstonearsenal:3dres/gears/flux"
+				}
+			},
+			"plateelectrumflux": {
+				"model": "redstonearsenal:plates",
+				"textures": {
+					"texture": "redstonearsenal:3dres/plates/flux"
+				}
+			},
+			"gemcrystalflux": {
+				"model": "redstonearsenal:gem_flux"
+			},
+			"rodobsidian": {
+				"model": "redstonearsenal:rods",
+				"textures": {
+					"texture": "redstonearsenal:3dres/rods/obsidian"
+				}
+			},
+			"rodobsidianflux": {
+				"model": "redstonearsenal:rods",
+				"textures": {
+					"texture": "redstonearsenal:3dres/rods/obsidian_flux"
+				}
+			},
+			"platearmorflux": {
+				"model": "redstonearsenal:armor_flux_plate"
+			}
+		}
+	}
+}

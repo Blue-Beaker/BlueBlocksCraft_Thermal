@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Blue_Beaker with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "3dres/coils/electrum"
+		"texture": "thermalfoundation:3dres/coils/electrum"
 	},
 	"elements": [ 	 
 		{

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by  with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "3dres/crystals/cinnabar"
+		"texture": "thermalfoundation:3dres/crystals/cinnabar"
 	},
 	"elements": [ 	 
 		{

@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Blue_Beaker with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "3dres/glass/signalum",
-		"texture": "3dres/glass/signalum"
+		"particle": "thermalfoundation:3dres/glass/signalum",
+		"texture": "thermalfoundation:3dres/glass/signalum"
 	},
 	"elements": [ 	 
 		{
