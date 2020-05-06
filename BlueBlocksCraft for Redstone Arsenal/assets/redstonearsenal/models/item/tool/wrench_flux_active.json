@@ -1,7 +1,6 @@
 {
 	"parent": "redstonearsenal:item/tool/wrench_flux",
 	"textures": {
-		"stick": "redstonearsenal:3dres/tools/stick_active",
-		"head": "redstonearsenal:3dres/tools/wrench/flux_active"
+		"texture": "redstonearsenal:3dres/tools/wrench/flux_active"
 	}
 }

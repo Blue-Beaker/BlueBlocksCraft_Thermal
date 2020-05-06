@@ -6,12 +6,6 @@
 				"active": 1.0
 			},
 			"model": "redstonearsenal:item/tool/wrench_flux_active"
-		},
-		{
-			"predicate": {
-				"empowered": 1.0
-			},
-			"model": "redstonearsenal:item/tool/wrench_flux_empowered"
 		}
 	]
 }

@@ -9,13 +9,13 @@
 			"name": "Box1",
 			"from": [7, 1, 7.5],
 			"to": [9, 12, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 8, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 4, 16], "texture": "#texture"},
-				"east": {"uv": [0, 0, 1, 16], "texture": "#texture"},
-				"south": {"uv": [4, 0, 0, 16], "texture": "#texture"},
-				"west": {"uv": [4, 0, 3, 16], "texture": "#texture"},
-				"up": {"uv": [0, 1, 4, 0], "rotation": 180, "texture": "#texture"},
-				"down": {"uv": [0, 15, 4, 16], "rotation": 180, "texture": "#texture"}
+				"north": {"uv": [0, 5, 2, 16], "texture": "#texture"},
+				"east": {"uv": [0, 5, 1, 16], "texture": "#texture"},
+				"south": {"uv": [2, 5, 0, 16], "texture": "#texture"},
+				"west": {"uv": [2, 5, 1, 16], "texture": "#texture"},
+				"down": {"uv": [0, 14, 2, 16], "rotation": 180, "texture": "#texture"}
 			}
 		},
 		{
