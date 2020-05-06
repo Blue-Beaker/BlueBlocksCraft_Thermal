@@ -1,6 +1,6 @@
 {
 	"parent": "redstonearsenal:item/tool/wrench_flux",
 	"textures": {
-		"texture": "redstonearsenal:3dres/tools/wrench/flux_active"
+		"texture": "redstonearsenal:3dres/tools/wrench_active"
 	}
 }
