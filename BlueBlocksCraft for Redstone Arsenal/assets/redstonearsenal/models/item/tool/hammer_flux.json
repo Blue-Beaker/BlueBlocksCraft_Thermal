@@ -1,8 +1,5 @@
 {
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "redstonearsenal:items/tool/hammer_flux"
-	},
+	"parent": "redstonearsenal:block/tools/hammer",
 	"overrides": [
 		{
 			"predicate": {

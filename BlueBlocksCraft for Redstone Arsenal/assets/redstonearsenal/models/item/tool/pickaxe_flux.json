@@ -1,8 +1,5 @@
 {
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "redstonearsenal:items/tool/pickaxe_flux"
-	},
+	"parent": "redstonearsenal:block/tools/pickaxe",
 	"overrides": [
 		{
 			"predicate": {

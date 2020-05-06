@@ -1,6 +1,7 @@
 {
 	"parent": "redstonearsenal:item/tool/hammer_flux",
 	"textures": {
-		"layer0": "redstonearsenal:items/tool/hammer_flux_active"
+		"stick": "redstonearsenal:3dres/tools/stick_active",
+		"head": "redstonearsenal:3dres/tools/hammers/flux_active"
 	}
 }

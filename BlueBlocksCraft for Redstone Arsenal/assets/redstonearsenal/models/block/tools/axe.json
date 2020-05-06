@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Blue_Beaker with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"stick": "thermalfoundation:3dres/tools/stick",
-		"head": "thermalfoundation:3dres/tool/iron/axe"
+		"stick": "redstonearsenal:3dres/tools/stick",
+		"head": "redstonearsenal:3dres/tools/axes/flux"
 	},
 	"elements": [ 	 
 		{

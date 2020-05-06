@@ -1,6 +1,7 @@
 {
 	"parent": "redstonearsenal:item/tool/sickle_flux",
 	"textures": {
-		"layer0": "redstonearsenal:items/tool/sickle_flux_empowered"
+		"stick": "redstonearsenal:3dres/tools/stick_active",
+		"head": "redstonearsenal:3dres/tools/sickles/flux_empowered"
 	}
 }

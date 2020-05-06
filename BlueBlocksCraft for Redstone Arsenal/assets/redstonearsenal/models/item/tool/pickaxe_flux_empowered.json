@@ -1,6 +1,7 @@
 {
 	"parent": "redstonearsenal:item/tool/pickaxe_flux",
 	"textures": {
-		"layer0": "redstonearsenal:items/tool/pickaxe_flux_empowered"
+		"stick": "redstonearsenal:3dres/tools/stick_active",
+		"head": "redstonearsenal:3dres/tools/pickaxes/flux_empowered"
 	}
 }

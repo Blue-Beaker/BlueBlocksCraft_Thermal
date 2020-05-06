@@ -1,8 +1,5 @@
 {
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "redstonearsenal:items/tool/sword_flux"
-	},
+	"parent": "redstonearsenal:block/tools/sword",
 	"overrides": [
 		{
 			"predicate": {

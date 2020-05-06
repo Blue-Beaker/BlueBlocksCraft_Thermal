@@ -1,8 +1,5 @@
 {
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "redstonearsenal:items/tool/shovel_flux"
-	},
+	"parent": "redstonearsenal:block/tools/shovel",
 	"overrides": [
 		{
 			"predicate": {
