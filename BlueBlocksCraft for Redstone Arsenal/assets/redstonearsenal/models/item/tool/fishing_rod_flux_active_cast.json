@@ -1,5 +1,5 @@
 {
-	"parent": "redstonearsenal:block/tool/fishing_rod_cast",
+	"parent": "redstonearsenal:block/tools/fishing_rod_cast",
 	"textures": {
 		"texture2": "redstonearsenal:3dres/tools/fishingrods/flux_active_cast"
 	}
