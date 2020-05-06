@@ -1,7 +1,7 @@
 {
-	"parent": "redstonearsenal:item/tool/bow",
+	"parent": "redstonearsenal:block/tools/bow",
 	"textures": {
-		"layer0": "redstonearsenal:items/tool/bow_flux"
+		"bow": "redstonearsenal:3dres/tools/bows/flux"
 	},
 	"overrides": [
 		{

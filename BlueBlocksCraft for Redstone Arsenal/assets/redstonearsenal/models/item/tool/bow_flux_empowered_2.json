@@ -1,6 +1,6 @@
 {
-	"parent": "redstonearsenal:item/tool/bow_flux",
+	"parent": "redstonearsenal:block/tools/bow_pulling_2",
 	"textures": {
-		"layer0": "redstonearsenal:items/tool/bow_flux_empowered_2"
+		"bow": "redstonearsenal:3dres/tools/bows/flux_empowered"
 	}
 }

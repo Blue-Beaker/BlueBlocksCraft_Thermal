@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"bow/flux": "redstonearsenal:3dres/tools/bows/flux",
+		"bow": "redstonearsenal:3dres/tools/bows/flux",
 		"string": "redstonearsenal:3dres/tools/string"
 	},
 	"elements": [
@@ -11,11 +11,11 @@
 			"to": [10, 17, 9],
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [10, 11, 7]},
 			"faces": {
-				"north": {"uv": [0, 0, 2, 6], "texture": "#bow/flux"},
-				"east": {"uv": [2, 0, 0, 6], "texture": "#bow/flux"},
-				"south": {"uv": [0, 0, 2, 6], "texture": "#bow/flux"},
-				"west": {"uv": [2, 0, 0, 6], "texture": "#bow/flux"},
-				"up": {"uv": [2, 0, 4, 2], "rotation": 90, "texture": "#bow/flux"}
+				"north": {"uv": [0, 0, 2, 6], "texture": "#bow"},
+				"east": {"uv": [2, 0, 0, 6], "texture": "#bow"},
+				"south": {"uv": [0, 0, 2, 6], "texture": "#bow"},
+				"west": {"uv": [2, 0, 0, 6], "texture": "#bow"},
+				"up": {"uv": [2, 0, 4, 2], "rotation": 90, "texture": "#bow"}
 			}
 		},
 		{
@@ -24,11 +24,11 @@
 			"to": [10, 5, 9],
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [10, 5, 7]},
 			"faces": {
-				"north": {"uv": [0, 10, 2, 16], "texture": "#bow/flux"},
-				"east": {"uv": [2, 10, 0, 16], "texture": "#bow/flux"},
-				"south": {"uv": [0, 10, 2, 16], "texture": "#bow/flux"},
-				"west": {"uv": [2, 10, 0, 16], "texture": "#bow/flux"},
-				"down": {"uv": [2, 0, 4, 2], "rotation": 270, "texture": "#bow/flux"}
+				"north": {"uv": [0, 10, 2, 16], "texture": "#bow"},
+				"east": {"uv": [2, 10, 0, 16], "texture": "#bow"},
+				"south": {"uv": [0, 10, 2, 16], "texture": "#bow"},
+				"west": {"uv": [2, 10, 0, 16], "texture": "#bow"},
+				"down": {"uv": [2, 0, 4, 2], "rotation": 270, "texture": "#bow"}
 			}
 		},
 		{
@@ -37,10 +37,10 @@
 			"to": [10, 11, 9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [5, 8, 8]},
 			"faces": {
-				"north": {"uv": [2, 2, 4, 8], "texture": "#bow/flux"},
-				"east": {"uv": [2, 2, 4, 8], "texture": "#bow/flux"},
-				"south": {"uv": [2, 2, 4, 8], "texture": "#bow/flux"},
-				"west": {"uv": [2, 2, 4, 8], "texture": "#bow/flux"}
+				"north": {"uv": [2, 2, 4, 8], "texture": "#bow"},
+				"east": {"uv": [2, 2, 4, 8], "texture": "#bow"},
+				"south": {"uv": [2, 2, 4, 8], "texture": "#bow"},
+				"west": {"uv": [2, 2, 4, 8], "texture": "#bow"}
 			}
 		},
 		{

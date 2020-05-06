@@ -1,7 +1,7 @@
 {
-	"parent": "item/handheld_rod",
+	"parent": "redstonearsenal:block/tool/fishing_rod",
 	"textures": {
-		"layer0": "redstonearsenal:items/tool/fishing_rod_flux"
+		"texture2": "redstonearsenal:3dres/tools/fishingrods/flux"
 	},
 	"overrides": [
 		{
