@@ -1,6 +1,7 @@
 {
 	"parent": "redstonearsenal:item/tool/battle_wrench_flux",
 	"textures": {
+		"stick": "redstonearsenal:3dres/tools/stick_active",
 		"head": "redstonearsenal:3dres/tools/battlewrench/flux_active"
-	},
+	}
 }
