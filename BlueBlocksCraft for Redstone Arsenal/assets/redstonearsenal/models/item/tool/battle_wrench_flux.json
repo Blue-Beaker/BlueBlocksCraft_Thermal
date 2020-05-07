@@ -1,8 +1,5 @@
 {
-	"parent": "block/tools/battlewrench",
-	"textures": {
-		"head": "redstonearsenal:3dres/tools/battlewrench/flux"
-	},
+	"parent": "redstonearsenal:block/tools/battlewrench",
 	"overrides": [
 		{
 			"predicate": {
