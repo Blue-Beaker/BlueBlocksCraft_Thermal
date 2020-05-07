@@ -1,7 +1,7 @@
 {
-	"parent": "item/handheld",
+	"parent": "block/tools/battlewrench",
 	"textures": {
-		"layer0": "redstonearsenal:items/tool/battle_wrench_flux"
+		"head": "redstonearsenal:3dres/tools/battlewrench/flux"
 	},
 	"overrides": [
 		{
