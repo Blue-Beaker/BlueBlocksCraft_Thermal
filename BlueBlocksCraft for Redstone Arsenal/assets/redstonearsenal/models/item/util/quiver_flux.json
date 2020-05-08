@@ -1,33 +1,7 @@
 {
-	"parent": "item/handheld",
+	"parent": "redstonearsenal:block/tools/quiver",
 	"textures": {
-		"layer0": "redstonearsenal:items/util/quiver_flux"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [ 0, 260,-40 ],
-			"translation": [ -1, -2, 3 ],
-			"scale": [ 0.6,	0.6, 0.6 ]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [ 0, -260, 40 ],
-			"translation": [ -1, -2, 3 ],
-			"scale": [ 0.6,	0.6, 0.6 ]
-		},
-		"firstperson_righthand": {
-			"rotation": [ 90, -90, 25],
-			"translation": [ 1.13, 3.2,	1.13 ],
-			"scale": [ 0.55, 0.55, 0.55 ]
-		},
-		"firstperson_lefthand": {
-			"rotation": [ 90, 90, -25 ],
-			"translation": [ 1.13, 3.2,	1.13 ],
-			"scale": [ 0.55, 0.55, 0.55 ]
-		},
-		"ground": {
-			"translation": [0, 0.15, 0],
-			"scale": [0.5, 0.5, 0.5]
-		}
+		"0": "redstonearsenal:3dres/tools/quiver/flux"
 	},
 	"overrides": [
 		{
