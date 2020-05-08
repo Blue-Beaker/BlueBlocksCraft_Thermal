@@ -1,5 +1,5 @@
 {
-	"parent": "thermalfoundation:item/fishing_rod",
+	"parent": "thermalfoundation:block/tools/fishing_rod",
 	"textures": {
 		"texture2": "thermalfoundation:3dres/tools/fishingrods/electrum"
 	},

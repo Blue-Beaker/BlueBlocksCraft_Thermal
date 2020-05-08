@@ -1,6 +1,6 @@
 {
-	"parent": "thermalfoundation:item/bow_pulling_0",
+	"parent": "thermalfoundation:block/tools/bow_pulling_0",
 	"textures": {
-		"stick": "thermalfoundation:3dres/tools/bows/platinum"
+		"bow": "thermalfoundation:3dres/tools/bows/platinum"
 	}
 }

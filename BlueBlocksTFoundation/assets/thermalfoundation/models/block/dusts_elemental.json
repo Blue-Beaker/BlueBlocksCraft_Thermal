@@ -1,7 +1,6 @@
 {
 	"__comment": "Designed by Blue_Beaker with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "thermalfoundation:3dres/dusts/cryotheum",
 		"texture1": "thermalfoundation:3dres/dusts/plate"
 	},
 	"elements": [ 	 
@@ -132,7 +131,7 @@
 		"gui": {
 			"rotation":  [ 30, 225, 0 ],
 			"translation":  [ 0, 2, 0 ],
-			"scale":  [ 0.625, 0.625, 0.625 ]
+			"scale":  [ 0.8, 0.8, 0.8 ]
 		},
 		"ground": {
 			"translation":  [ 0, 3, 0 ],

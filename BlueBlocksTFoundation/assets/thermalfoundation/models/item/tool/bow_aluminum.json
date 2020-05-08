@@ -1,7 +1,7 @@
 {
-	"parent": "thermalfoundation:item/bow",
+	"parent": "thermalfoundation:block/tools/bow",
 	"textures": {
-		"stick": "thermalfoundation:3dres/tools/bows/aluminum"
+		"bow": "thermalfoundation:3dres/tools/bows/aluminum"
 	},
 	"overrides": [
 		{
