@@ -1,0 +1,6 @@
+{
+	"parent": "redstone_arsenal:item/tool/fishing_rod_flux",
+	"textures": {
+		"texture2": "redstone_arsenal:3dres/tools/fishingrods/flux_active"
+	}
+}

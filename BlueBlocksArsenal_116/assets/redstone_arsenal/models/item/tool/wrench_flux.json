@@ -1,0 +1,11 @@
+{
+	"parent": "redstone_arsenal:block/tools/wrench",
+	"overrides": [
+		{
+			"predicate": {
+				"active": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/wrench_flux_active"
+		}
+	]
+}

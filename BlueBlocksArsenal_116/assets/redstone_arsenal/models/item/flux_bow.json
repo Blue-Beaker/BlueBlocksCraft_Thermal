@@ -1,0 +1,66 @@
+{
+	"parent": "redstone_arsenal:block/tools/bow",
+	"textures": {
+		"bow": "redstone_arsenal:3dres/tools/bows/flux"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"active": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/bow_flux_active"
+		},
+		{
+			"predicate": {
+				"pulling": 1.0,
+				"active": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/bow_flux_active_0"
+		},
+		{
+			"predicate": {
+				"pulling": 1.0,
+				"pull": 0.65,
+				"active": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/bow_flux_active_1"
+		},
+		{
+			"predicate": {
+				"pulling": 1.0,
+				"pull": 0.9,
+				"active": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/bow_flux_active_2"
+		},
+		{
+			"predicate": {
+				"empowered": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/bow_flux_empowered"
+		},
+		{
+			"predicate": {
+				"pulling": 1.0,
+				"empowered": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/bow_flux_empowered_0"
+		},
+		{
+			"predicate": {
+				"pulling": 1.0,
+				"pull": 0.65,
+				"empowered": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/bow_flux_empowered_1"
+		},
+		{
+			"predicate": {
+				"pulling": 1.0,
+				"pull": 0.9,
+				"empowered": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/bow_flux_empowered_2"
+		}
+	]
+}

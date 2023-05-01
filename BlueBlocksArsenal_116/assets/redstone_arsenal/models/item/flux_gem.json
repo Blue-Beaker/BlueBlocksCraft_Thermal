@@ -1,0 +1,5 @@
+{
+  "parent": "redstone_arsenal:item/materials_base/flux_crystal",
+  "textures": {
+  }
+}

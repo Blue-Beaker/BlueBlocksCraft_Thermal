@@ -1,0 +1,17 @@
+{
+	"parent": "redstone_arsenal:block/tools/sword",
+	"overrides": [
+		{
+			"predicate": {
+				"active": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/sword_flux_active"
+		},
+		{
+			"predicate": {
+				"empowered": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/sword_flux_empowered"
+		}
+	]
+}

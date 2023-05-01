@@ -1,0 +1,6 @@
+{
+	"parent": "redstone_arsenal:item/util/quiver_flux",
+	"textures": {
+		"0": "redstone_arsenal:3dres/tools/quiver/flux_empowered"
+	}
+}

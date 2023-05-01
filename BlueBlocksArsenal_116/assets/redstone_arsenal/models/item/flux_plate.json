@@ -1,0 +1,6 @@
+{
+  "parent": "redstone_arsenal:item/materials_base/plates",
+  "textures": {
+					"texture": "redstone_arsenal:3dres/plates/flux"
+  }
+}

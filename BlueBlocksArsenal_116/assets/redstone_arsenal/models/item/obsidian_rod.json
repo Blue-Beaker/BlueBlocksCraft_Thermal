@@ -1,0 +1,6 @@
+{
+  "parent": "redstone_arsenal:item/materials_base/rods",
+  "textures": {
+					"texture": "redstone_arsenal:3dres/rods/obsidian"
+  }
+}

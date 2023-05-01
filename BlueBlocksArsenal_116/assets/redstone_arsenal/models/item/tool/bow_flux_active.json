@@ -1,0 +1,6 @@
+{
+	"parent": "redstone_arsenal:block/tools/bow",
+	"textures": {
+		"bow": "redstone_arsenal:3dres/tools/bows/flux_active"
+	}
+}

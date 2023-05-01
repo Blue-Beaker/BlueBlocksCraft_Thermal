@@ -1,0 +1,34 @@
+{
+	"parent": "redstone_arsenal:block/tools/fishing_rod",
+	"textures": {
+		"texture2": "redstone_arsenal:3dres/tools/fishingrods/flux"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"active": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/fishing_rod_flux_active"
+		},
+		{
+			"predicate": {
+				"cast": 1.0,
+				"active": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/fishing_rod_flux_active_cast"
+		},
+		{
+			"predicate": {
+				"empowered": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/fishing_rod_flux_empowered"
+		},
+		{
+			"predicate": {
+				"cast": 1.0,
+				"empowered": 1.0
+			},
+			"model": "redstone_arsenal:item/tool/fishing_rod_flux_empowered_cast"
+		}
+	]
+}

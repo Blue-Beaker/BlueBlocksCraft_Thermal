@@ -1,0 +1,21 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+	},
+	"variants": {
+		"type": {
+			"helmet_flux": {
+				"model":"redstone_arsenal:armor/helmet"
+			},
+			"chestplate_flux": {
+				"model":"redstone_arsenal:armor/chestplate"
+			},
+			"leggings_flux": {
+				"model":"redstone_arsenal:armor/leggings"
+			},
+			"boots_flux": {
+				"model":"redstone_arsenal:armor/boots"
+			}
+		}
+	}
+}
