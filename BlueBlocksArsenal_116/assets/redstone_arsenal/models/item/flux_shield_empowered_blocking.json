@@ -1,6 +1,0 @@
-{
-	"parent": "redstone_arsenal:item/tool/shield_flux_blocking",
-	"textures": {
-		"all": "redstone_arsenal:items/tool/shield_flux_empowered"
-	}
-}
